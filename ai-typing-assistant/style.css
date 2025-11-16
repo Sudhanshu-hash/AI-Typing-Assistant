@@ -1,0 +1,34 @@
+.ai-highlight {
+  background: #fff3bf;
+}
+/* AI assistant UI */
+.ai-overlay {
+  pointer-events: none;
+  color: transparent;
+}
+
+/* underline decoration — we only use underline visuals, text itself hidden */
+.ai-underline {
+  text-decoration: underline wavy red;
+  text-decoration-thickness: 2px;
+  pointer-events: auto;
+  /* keep text color transparent because underlying field shows text */
+  color: transparent;
+  background: transparent;
+}
+
+/* suggestion popup */
+.ai-suggestion-popup {
+  font-family: system-ui, Arial, sans-serif;
+}
+
+/* translate button */
+.ai-translate-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
+
+/* suggestion replacement buttons */
+.ai-sugg-btn { cursor: pointer; }

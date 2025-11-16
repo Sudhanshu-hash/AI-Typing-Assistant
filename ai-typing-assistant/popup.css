@@ -1,0 +1,6 @@
+body{font-family:system-ui,Segoe UI,Roboto,Arial;margin:0;padding:10px;width:260px}
+.container{display:flex;flex-direction:column;gap:8px}
+h3{margin:0;font-size:16px}
+.row{display:flex;align-items:center;justify-content:space-between}
+button{padding:6px 8px;border-radius:6px;border:1px solid #ccc;background:#f7f7f7}
+.note{color:#666;font-size:11px}
