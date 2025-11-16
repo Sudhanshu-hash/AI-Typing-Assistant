@@ -65,9 +65,12 @@ my-typing-assistant-extension/
 ## 🛠 Installation (For Developers)
 1️⃣ Open Chrome → Extensions
 (chrome://extensions/)
+
 2️⃣ Enable Developer Mode
+
 3️⃣ Click Load Unpacked
 Select the extension folder.
+
 Done! 🎉
 
 ---
