@@ -51,16 +51,27 @@ Perfect for emails, social media, documentation, and anywhere you type online.
 ## 📂 Folder Structure
 my-typing-assistant-extension/
 │
+
 ├── manifest.json
+
 ├── background.js
+
 ├── contentScript.js
+
 ├── popup.html
+
 ├── popup.js
+
 ├── popup.css
+
 ├── icons/
+
 ├── icon16.png
+
 ├── icon48.png
+
 └── icon128.png
+
 
 ## 🛠 Installation (For Developers)
 1️⃣ Open Chrome → Extensions
